@@ -1,0 +1,11 @@
+# Virtual environment
+libs/
+
+# Migration scripts
+migrations/
+
+# Database
+db.sqlite3
+
+# Bytecode
+*.pyc
