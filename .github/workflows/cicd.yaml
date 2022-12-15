@@ -36,4 +36,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: volodya-leveryev/students:latest
+          tags: ghcr.io/volodya-leveryev/students:latest
